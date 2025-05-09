@@ -1,5 +1,6 @@
-# Ex. No.  - SIMULATION ANALYSIS ON SLIDER CRANK MECHANISM
-
+# Ex. No. 2 - SIMULATION ANALYSIS ON SLIDER CRANK MECHANISM
+### Name:MANIKUMAR D.K
+### Register Number:  212223230121
 ## DATE: 
 
 ## AIM:
@@ -45,9 +46,8 @@
 
 ## Output
 
+![image](https://github.com/user-attachments/assets/9935877e-c0a1-4c03-8ea8-b50ad19337b8)
 
-### Name:
-### Register Number: 
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
